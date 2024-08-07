@@ -8,3 +8,6 @@ class Cisla(Enum):
 
 def scitani(a, b):
     return a + b
+
+def odcitani(a, b):
+    return a - b
