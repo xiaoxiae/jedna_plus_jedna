@@ -14,3 +14,6 @@ def odcitani(a, b):
 
 def umocnovani(a, b):
     return a ** b
+
+feof oieafj peafjpija jfea
+foi pjffpoiea feapoi
