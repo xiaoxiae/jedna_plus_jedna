@@ -11,3 +11,6 @@ def scitani(a, b):
 
 def odcitani(a, b):
     return a - b
+
+def umocnovani(a, b):
+    return a ** b
