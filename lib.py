@@ -6,3 +6,5 @@ class Cisla(Enum):
     DVA = 2
 
 
+def scitani(a, b):
+    return a + b
